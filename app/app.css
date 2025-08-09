@@ -18,6 +18,7 @@
   --color-badge-yellow-text: #73321b;
 }
 
+
 html,
 body {
   @apply bg-white;
